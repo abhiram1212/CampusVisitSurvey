@@ -42,9 +42,5 @@ docker push your-dockerhub-username/survey-backend:latest
 - Kubernetes Cluster Managed via Rancher
 - CI/CD with Jenkins
 
-## 📜 **Documentation**
-For detailed steps, refer to the full documentation: [SWE645_HW3_Report](SWE645_HW3_Report.pdf)
-
-
 ## 🤝 **Contributing**
 Feel free to fork this repository and submit pull requests.
